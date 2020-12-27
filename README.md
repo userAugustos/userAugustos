@@ -9,7 +9,7 @@
 
 - 🌱 I’m aways learning about front-end and now i'm doing some stuff with _**PHP**_ and _**Node.js**_ 
 
-- 👯 I’m looking to collaborate on any projects that can help myself to leraning more about my satck
+- 👯 I’m looking to collaborate on any projects that can help myself to leraning more about my stack
 
 - 💬 Ask me about anything on my DM or E-mail, the link is in my profile
 
