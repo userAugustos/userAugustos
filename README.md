@@ -13,7 +13,7 @@
 
 - 💬 Ask me about anything on my DM or E-mail, the link is in my profile
 
-- ⚡ Fun fact: I like Java, i studied for 2 semesters, i just didn't keep studying
+- ⚡ Fun fact: I like Java, i studied for 2 semesters, and I still like the language to this day
 
 Down here have some projects that I'm working on or already finished, if you like, please give a Star 
 
