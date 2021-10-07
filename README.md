@@ -2,7 +2,7 @@
 #### I'm a software Devoleper, with love in Front-end development, and challenges
 
 - 🔭 I’m currently working on:
-  - Reacts frameworks and best pratices _
+  - Reacts frameworks and best pratices
   - some challenges _You can find this in repositories with 'challenge'_
   - UI clones with React.js _you can find this in repositories with 'UI'_
   - The Sensation Studio a website for a barbershop _you can find this in the repository **Sensation-Studio**_
