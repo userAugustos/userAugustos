@@ -3,6 +3,7 @@
 
 - 🔭 I’m currently working on:
   - Reacts frameworks and best pratices
+  - learn better Nodejs and backend infra/engineering
   - some challenges _You can find this in repositories with 'challenge'_
   - UI clones with React.js _you can find this in repositories with 'UI'_
   - The Sensation Studio a website for a barbershop _you can find this in the repository **Sensation-Studio**_
