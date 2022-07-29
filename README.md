@@ -3,12 +3,12 @@
 
 - 🔭 I’m currently working on:
   - Reacts frameworks and best pratices
-  - learn better Nodejs and backend infra/engineering
+  - Nodejs with AWS
+  - Learning bests pratices as a software developer
   - some challenges _You can find this in repositories with 'challenge'_
   - UI clones with React.js _you can find this in repositories with 'UI'_
-  - The Sensation Studio a website for a barbershop _you can find this in the repository **Sensation-Studio**_
 
-- 🌱 I’m aways learning about front-end and now i'm doing some stuff with _**PHP**_ and _**Node.js**_ 
+- 🌱 I’m aways learning about front-end and now i'm doing some stuff with **flutter** 
 
 - 👯 I’m looking to collaborate on any projects that can help myself to leraning more about my stack
 
