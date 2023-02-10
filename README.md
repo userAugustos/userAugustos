@@ -5,10 +5,11 @@
   - Reacts frameworks and best pratices
   - Nodejs with AWS
   - Learning bests pratices as a software developer
-  - some challenges _You can find this in repositories with 'challenge'_
-  - UI clones with React.js _you can find this in repositories with 'UI'_
+  - some challenges and algorithms with **rust**, **javascript** and **python**
+  - UI clones with **React.js** and **Angular**
+  - Reading the book: _Entendendo Algoritmos: Um Guia Ilustrado Para Programadores e Outros Curiosos_
 
-- 🌱 I’m aways learning about front-end and now i'm doing some stuff with **flutter** 
+- 🌱 I’m aways learning about front-end and now i'm doing some stuff with **Angular** 
 
 - 👯 I’m looking to collaborate on any projects that can help myself to leraning more about my stack
 
