@@ -2,12 +2,12 @@
 #### I'm a software Devoleper, with love in Front-end development, and challenges
 
 - 🔭 I’m currently working on:
-  - Reacts frameworks and best pratices
-  - Nodejs with AWS
-  - Learning bests pratices as a software developer
-  - some challenges and algorithms with **rust**, **javascript** and **python**
-  - UI clones with **React.js** and **Angular**
-  - Reading the book: _Entendendo Algoritmos: Um Guia Ilustrado Para Programadores e Outros Curiosos_
+  - 🔵 Reacts frameworks and best pratices
+  - 🟢 Nodejs with AWS
+  - 🟢 Learning bests pratices as a software developer
+  - 🔴 some challenges and algorithms with **rust**, **javascript** and **python**
+  - 🔵 UI clones with **React.js** and **Angular**
+  - ⚫ Reading the book: _Entendendo Algoritmos: Um Guia Ilustrado Para Programadores e Outros Curiosos_
 
 - 🌱 I’m aways learning about front-end and now i'm doing some stuff with **Angular** 
 
